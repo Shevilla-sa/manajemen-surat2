@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Surat Masuk & Keluar",
+  "description": "Aplikasi tata kelola persuratan dinas digital: pencatatan surat masuk, surat keluar, lembar disposisi, buku agenda, rekapitulasi laporan, dan manajemen pengguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
